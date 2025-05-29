@@ -1,0 +1,139 @@
+{
+  "projectName": "Edennova.com",
+  "industryFocus": ["Automotive", "Aerospace & Defense", "Oil & Gas"],
+  "coreMessage": {
+    "slogan": "Edennova: Intelligent PLM. Accelerated Industries.",
+    "mission": "Transforming Product Lifecycles with AI-Powered 3DEXPERIENCE.",
+    "valueProps": [
+      "Pioneering AI Integration with 3DEXPERIENCE",
+      "Deep Industry & PLM Expertise",
+      "Tangible Business ROI",
+      "Strategic Digital Transformation Partner"
+    ]
+  },
+  "visualStyle": {
+    "theme": "Modern, Tech-Driven, Clean",
+    "colors": {
+      "primary": ["#0D1B2A", "#1B263B", "#FFFFFF"],
+      "accent": ["#00FFFF", "#00D084", "#FFD700"]
+    },
+    "typography": {
+      "headingFont": "Sans-serif (e.g., Poppins or Montserrat)",
+      "bodyFont": "Clean sans-serif (e.g., Open Sans or Roboto)"
+    },
+    "imagery": {
+      "types": [
+        "Abstract AI visuals with neural data streams",
+        "3DEXPERIENCE dashboards",
+        "Industry-specific: car chassis, jet engines, refineries",
+        "Digital twins, simulations, predictive analytics"
+      ],
+      "style": "Futuristic, professional, real engineers + tech"
+    }
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "sections": [
+        "Hero with slogan, subheadline, and CTA",
+        "Why Edennova? (vision paragraph)",
+        "Service Pillars (Auto, Aero, O&G)",
+        "Client logos or impact statement",
+        "Latest Insights preview",
+        "Secondary CTA (whitepaper/case study)",
+        "Footer (about, contact, social)"
+      ]
+    },
+    {
+      "name": "About Us",
+      "sections": [
+        "Company Story and Mission",
+        "Leadership Team Bios with Photos",
+        "Core Values",
+        "Tech Philosophy (AI + 3DEXPERIENCE)"
+      ]
+    },
+    {
+      "name": "Services",
+      "sections": [
+        "Overview of AI + 3DEXPERIENCE integration",
+        "Links to Industry-Specific pages",
+        "Highlight of cross-industry capabilities"
+      ]
+    },
+    {
+      "name": "Industries",
+      "subpages": [
+        {
+          "name": "Automotive",
+          "sections": [
+            "Industry Hero Image",
+            "Challenges in Automotive PLM",
+            "Edennova’s AI-Driven Solutions",
+            "Specific Capabilities (e.g., Predictive Maintenance)",
+            "Quantifiable Benefits",
+            "Case Study Previews",
+            "CTA: Request Demo"
+          ]
+        },
+        {
+          "name": "Aerospace",
+          "cloneStructure": "Automotive"
+        },
+        {
+          "name": "Oil & Gas",
+          "cloneStructure": "Automotive"
+        }
+      ]
+    },
+    {
+      "name": "Case Studies",
+      "features": [
+        "Filter by Industry or Solution Type",
+        "Individual Pages with Challenge, Solution, Metrics, Visuals"
+      ]
+    },
+    {
+      "name": "Insights",
+      "features": [
+        "Blog Posts",
+        "Whitepapers",
+        "Webinars",
+        "Newsletter Signup"
+      ]
+    },
+    {
+      "name": "Careers",
+      "sections": [
+        "Why Work at Edennova",
+        "Job Listings"
+      ]
+    },
+    {
+      "name": "Contact",
+      "features": [
+        "Contact Form",
+        "Phone/Email",
+        "Office Location (map)",
+        "Social Media Icons"
+      ]
+    }
+  ],
+  "functionalRequirements": {
+    "responsiveDesign": true,
+    "SEOOptimized": true,
+    "fastLoad": true,
+    "secure": true,
+    "analytics": ["Google Analytics 4", "Search Console"],
+    "CRMIntegration": "Optional (HubSpot or Salesforce ready)"
+  },
+  "animations": {
+    "hoverEffects": "Subtle button glow or image transitions",
+    "scrollEffects": "Data viz animations or parallax for impact visuals"
+  },
+  "optionalFeatures": {
+    "IntroVideo": "Short home page video to explain value",
+    "CaseStudySlider": true,
+    "BlogSearch": true
+  }
+}
